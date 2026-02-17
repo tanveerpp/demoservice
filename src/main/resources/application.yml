@@ -4,9 +4,9 @@ spring:
   application:
     name: datarest
   datasource:
-    url: jdbc:postgresql://dpg-d4uj33ili9vc73d6n0kg-a.oregon-postgres.render.com:5432/cservice
-    username: cservice_user
-    password: ZxmryddwCwRtwPMxK8221NRYVHh9lrRu
+    url: jdbc:postgresql://dpg-d6a3apt6ubrc73aspu60-a.oregon-postgres.render.com:5432/pp_fv0u
+    username: pp_fv0u_user
+    password: L13cOpRgtbC0Ld5CR8cWbWheLOW811FU
     driver-class-name: org.postgresql.Driver
   jpa:
     show-sql: true
